@@ -1004,8 +1004,8 @@
     "description": "English: Disable strict blocking for {{hostname}} ..."
   },
   "docblockedDisableTemporary": {
-    "message": "Temporarily",
-    "description": "English: Temporarily"
+    "message": "Just Once",
+    "description": "English: Just Once"
   },
   "docblockedDisablePermanent": {
     "message": "Permanently",
