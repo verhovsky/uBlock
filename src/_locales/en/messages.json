@@ -203,7 +203,7 @@
     "message": "More",
     "description": "Label to be used to show popup panel sections"
   },
-  "popupLessButton_v2": {
+  "pupupLessButton_v2": {
     "message": "Less",
     "description": "Label to be used to hide popup panel sections"
   },
@@ -1004,8 +1004,8 @@
     "description": "English: Disable strict blocking for {{hostname}} ..."
   },
   "docblockedDisableTemporary": {
-    "message": "Temporarily",
-    "description": "English: Temporarily"
+    "message": "Just Once",
+    "description": "English: Just Once"
   },
   "docblockedDisablePermanent": {
     "message": "Permanently",
